@@ -1,0 +1,1 @@
+你可以先看看 ARMAPLUS.CPP里面的注释。我的python代码没有注释的。运行的话就运行ARMA.py这个主文件就可以了，或者ARMAPLUS.CPP这个文件。
